@@ -205,6 +205,7 @@ $pageDescription = 'Computer Therapy is a practical knowledge hub for troublesho
     <meta name="description" content="<?= e($pageDescription) ?>" />
 
     <link rel="stylesheet" href="/assets/css/home.css" />
+    <link rel="icon" href="/favicon.ico" sizes="any">
 </head>
 <body>
     <header class="topbar">

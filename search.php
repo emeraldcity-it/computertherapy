@@ -56,6 +56,7 @@ $pageDescription = 'Search Computer Therapy guides, tools, categories, and troub
     <meta name="description" content="<?= e($pageDescription) ?>" />
 
     <link rel="stylesheet" href="/assets/css/home.css" />
+    <link rel="icon" href="/favicon.ico" sizes="any">
 </head>
 <body>
     <header class="topbar">
